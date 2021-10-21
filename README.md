@@ -1,4 +1,5 @@
 movistar_dos.py -> Realiza un ataque DOS en la red Movistar local mediante el envío continuo de inicios de sesión. 
+
 movistar_brute.py -> Realiza un ataque de tipo diccionario, probando las contraseñas de la lista que selecciones (edita el script para cambiar los threads y la wordlist)
 
 Ambos scripts bypasean el limite de intentos de inicio de sesion implementado (pobremente) por Movistar para evitar este tipo de ataques 
