@@ -1,6 +1,6 @@
 ## Movistar Exploit Toolkit
 
-*Incluye dos scripts probados en la última versión (2021) de los routers Movistar*
+**Incluye dos scripts probados en la última versión (2021) de los routers Movistar**
 
   ![movrou](https://user-images.githubusercontent.com/92279236/138614508-9f34fbf0-2649-4d2e-87ed-768bc7f6b929.png)
 
