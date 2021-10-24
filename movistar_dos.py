@@ -1,4 +1,3 @@
-from multiprocessing.dummy import Pool as ThreadPool
 import requests
 import os
 import threading
@@ -18,7 +17,6 @@ parametrosLogin = {
 }
 
 session = requests.Session()
-pool = ThreadPool(4)
 
 def main(count):
     try:
