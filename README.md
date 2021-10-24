@@ -1,6 +1,6 @@
 Incluye dos scripts probados en la última versión (2021) de los routers Movistar
 
-  ![routermov](https://user-images.githubusercontent.com/92279236/138614422-4bc4f38b-2cee-4d1d-a664-f129ea716bac.jpg)
+  ![movrou](https://user-images.githubusercontent.com/92279236/138614508-9f34fbf0-2649-4d2e-87ed-768bc7f6b929.png)
 
 Ambos scripts bypasean el limite de intentos de inicio de sesion implementado (pobremente) por Movistar para evitar este tipo de ataques 
 
