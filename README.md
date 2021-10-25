@@ -10,7 +10,7 @@ Ambos scripts bypasean el limite de intentos de inicio de sesion implementado (p
 
 ![loglimit](https://user-images.githubusercontent.com/92279236/138266890-609b1203-1ef8-4255-b5a0-f63864a42b08.png)
 
-Descripcion del script:
+ 
 
   **Opcion 1** -> Realiza un ataque DOS en la red Movistar local mediante el envío continuo de inicios de sesión. 
 
