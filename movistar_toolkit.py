@@ -43,13 +43,13 @@ def cls():
 def brute_start(passw):
     req = session.get(ROUTER_URL, headers=fakeHeader)
 
-    parametrosLogin["loginPassword"] = passw
-    iniReq = session.post(ROUTER_URL+LOGIN_URL, headers=fakeHeader, params=parametrosLogin)
+    iniReq = session.post(ROUTER_URL+LOGIN_URL, headers=fakeHeader)
 
     errorResponse = iniReq.text
     errorStatus = iniReq.status_code
     errorCookie = session.cookies.get_dict()
 
+    parametrosLogin["loginPassword"] = passw
     print("Generated cookie: {}".format(errorCookie))
     print("Current password: {}".format(passw))
 
